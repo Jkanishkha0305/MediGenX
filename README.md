@@ -39,11 +39,11 @@ In the dynamic world of healthcare, the fusion of AI and medical imaging is a ga
 
 ## Problem Statement
 
-The challenge we tackle in this workshop: "How can AI-generated medical images and radiomics-informed text provide invaluable insights to healthcare professionals, improving diagnostic accuracy and patient care?"
+The challenge we tackle in this Project: "How can AI-generated medical images and radiomics-informed text provide invaluable insights to healthcare professionals, improving diagnostic accuracy and patient care?"
 
 ## Contributing
 
-I welcome contributions from the data science and seismology communities. You can contribute to this project by following the guidelines in our [Contributing Guide](/CONTRIBUTING.md).
+I welcome contributions from the Data Science and Radiology communities. You can contribute to this project by following the guidelines in our [Contributing Guide](/CONTRIBUTING.md).
 
 ## License
 
